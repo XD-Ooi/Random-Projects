@@ -8,4 +8,4 @@ Specifically, I ran the two following regression models:
 * climate_attitude= 𝛽0 + 𝛽1sex_ratio + 𝛽2unemployment_rate + 𝛽3gdp_per_capita + 𝛽4cpi + 𝛽5public_debt_per_gdp + e; and
 * climate_action= 𝛽0 + 𝛽1sex_ratio + 𝛽2unemployment_rate + 𝛽3gdp_per_capita + 𝛽4cpi + 𝛽5public_debt_per_gdp + e.
 
-The data for this project was extracted from OECD, Eurostat, World Bank, and the European Commission’s biannual Special Eurobarometer reports.
+The data for this project was extracted from OECD, Eurostat, World Bank, and the European Commission’s biannual Special Eurobarometer reports on Climate Change.
