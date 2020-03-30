@@ -9,3 +9,7 @@ Specifically, I ran the two following regression models:
 * climate_action= 𝛽0 + 𝛽1sex_ratio + 𝛽2unemployment_rate + 𝛽3gdp_per_capita + 𝛽4cpi + 𝛽5public_debt_per_gdp + e.
 
 The data for this project was extracted from OECD, Eurostat, World Bank, and the European Commission’s biannual Special Eurobarometer reports on Climate Change.
+
+## License
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa]. [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
