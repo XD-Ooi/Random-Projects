@@ -1,7 +1,5 @@
 # The Effect of Economic Performance on Climate Change Attitude and Action in the EU
 
-This is an econometrics project for my course in *Economics in the EU*. 
-
 For this project, I ran some multiple linear regression model to determine the relationship between several macroeconomic indicators and European citizens' climate change attitude and action.
 
 Specifically, I ran the two following regression models:
