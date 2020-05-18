@@ -1,7 +1,5 @@
 # What Affects the Financial Performance of a Country
 
-This is an econometrics project for my course in *Introduction to Econometrics*. 
-
 For this project, I ran some multiple linear regression model to determine the relationship between several macroeconomic indicators and countries' fiscal balance.
 
 * balance_per_gdp = 𝛽0 + 𝛽1gdp_pc_log + 𝛽2tot + 𝛽3unemployment_log +𝛽4year_2017 + e (under stricter independent variable correlation threshold);
