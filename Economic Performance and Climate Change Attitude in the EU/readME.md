@@ -1,5 +1,15 @@
 # The Effect of Economic Performance on Climate Change Attitude and Action in the EU
 
+Update: After discussing the project with my lecturer, I have updated the model into a linear panel regression model to account for the time fixed effects (considering the 
+collection date of our data source). The updated linear panel regression models are:
+
+* climate_attitude_it = 𝛽0 + 𝛽1sex_ratio_it + 𝛽2unemployment_rate_it + 𝛽3gdp_per_capita_it  + 𝛽4cpi_it  + 𝛽5public_debt_per_gdp_it  +TimeFixedEffects+ u_it; and
+* climate_action_it = 𝛽0 + 𝛽1sex_ratio_it + 𝛽2unemployment_rate_it + 𝛽3gdp_per_capita_it  + 𝛽4cpi_it  + 𝛽5public_debt_per_gdp_it  +TimeFixedEffects+ u_it
+
+where `_it` are subsripts.
+
+----
+
 For this project, I ran some multiple linear regression model to determine the relationship between several macroeconomic indicators and European citizens' climate change attitude and action.
 
 Specifically, I ran the two following regression models:
