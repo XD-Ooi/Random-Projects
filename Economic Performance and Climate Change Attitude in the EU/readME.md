@@ -1,7 +1,7 @@
 # The Effect of Economic Performance on Climate Change Attitude and Action in the EU
 
 Update: After discussing the project with my lecturer, I have updated the model into a linear panel regression model to account for the time fixed effects (considering the 
-collection date of our data source). The updated linear panel regression models are:
+collection date of our data source). 
 
 ----
 
