@@ -1,4 +1,4 @@
-# CSR Disclosure and Profitability
+# CSR Disclosure and Profitability of Chinese Publicly-Listed Firms
 
 For this project, I ran multiple linear regression models to determine the relationship between CSR Disclsoure and Profitability among Chinese publicly listed firms.
 
